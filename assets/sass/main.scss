@@ -1249,7 +1249,7 @@
 						color: _palette(header, fg-bold) !important;
 						display: block;
 						padding: 0.85em 0;
-						text-decoration: none;
+						text-decoration: underline overline;
 
 						&.active {
 							background: _palette(bg);
