@@ -28,7 +28,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 - [X] Unzip the code and copy the site to your git repository that you just set up
   * Note that we won't be utilizing the pre processed CSS structure, you can just ignore any folder with LESS or SASS (SCSS) in it.
-- [ ] Work on the MVP requirements listed below
+- [X] Work on the MVP requirements listed below
 
 ### Follow these steps for completing your project after your MVP is completed:
 
